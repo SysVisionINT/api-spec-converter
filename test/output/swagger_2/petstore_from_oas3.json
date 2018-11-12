@@ -231,6 +231,7 @@
         "operationId": "findPetsByStatus",
         "parameters": [
           {
+            "collectionFormat": "csv",
             "description": "Status values that need to be considered for filter",
             "in": "query",
             "items": {
@@ -276,6 +277,7 @@
         "operationId": "findPetsByTags",
         "parameters": [
           {
+            "collectionFormat": "multi",
             "description": "Tags to filter by",
             "in": "query",
             "items": {
