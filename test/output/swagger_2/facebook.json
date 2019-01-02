@@ -2,8 +2,8 @@
   "basePath": "/",
   "host": "graph.facebook.com",
   "info": {
-    "title": "",
-    "version": ""
+    "title": "< An API title here >",
+    "version": "< An API version here >"
   },
   "paths": {
     "/search": {

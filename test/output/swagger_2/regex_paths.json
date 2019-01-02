@@ -2,8 +2,8 @@
   "basePath": "/resources/v1/",
   "host": "localhost:8080",
   "info": {
-    "title": "",
-    "version": ""
+    "title": "< An API title here >",
+    "version": "< An API version here >"
   },
   "paths": {
     "/{sessionId}": {
